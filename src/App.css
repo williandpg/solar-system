@@ -1,3 +1,13 @@
-.App {
-  text-align: center;
+body {
+  background-image: url(/src/images/background.png);
+  color: white;
+}
+
+solar-system {
+  display: flex;
+  position: absolute;
+  width: 1284px;
+  height: 305.54px;
+  left: 0px;
+  top: 444px;
 }
