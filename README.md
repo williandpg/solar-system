@@ -39,12 +39,12 @@
 <h2><strong>Estrutura do Projeto</strong></h2>
 <p align="justify">A estrutura do projeto é organizada de forma simples para facilitar a leitura e manutenção:</p>
 <pre><code>/
-├── examples/                 <Exemplos dos componentes em uso>
+├── examples/                 # Exemplos dos componentes em uso
 ├── src/
-│   ├── components/           <Componentes React da aplicação>
-│   ├── data/                 <Dados dos planetas e missões>
-│   ├── images/               <Imagens utilizadas na aplicação>
-│   ├── tests/                <Testes dos componentes>
+│   ├── components/           # Componentes React da aplicação
+│   ├── data/                 # Dados dos planetas e missões
+│   ├── images/               # Imagens utilizadas na aplicação
+│   ├── tests/                # Testes dos componentes
 │   ├── App.tsx
 │   ├── App.css
 │   ├── main.tsx
@@ -112,12 +112,12 @@
   <h2><strong>Project Structure</strong></h2>
   <p align="justify">The project structure is organized as follows:</p>
   <pre><code>/
-  ├── examples/                 <Examples of components in use>
+  ├── examples/                 # Examples of components in use
   ├── src/
-  │   ├── components/           <React components of the application>
-  │   ├── data/                 <Data of planets and missions>
-  │   ├── images/               <Images used in the application>
-  │   ├── tests/                <Component tests>
+  │   ├── components/           # React components of the application
+  │   ├── data/                 # Data of planets and missions
+  │   ├── images/               # Images used in the application
+  │   ├── tests/                # Component tests
   │   ├── App.tsx
   │   ├── App.css
   │   ├── main.tsx
